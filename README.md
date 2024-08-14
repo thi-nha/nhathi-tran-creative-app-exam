@@ -64,3 +64,6 @@ Pillow: For image creation and manipulation.
 OpenCV: For video creation.
 MoviePy: For video and GIF processing.
 Transformers (HuggingFace): For generating music using a pre-trained model.
+
+#Adding gifs to README.md file
+![](final.gif)
