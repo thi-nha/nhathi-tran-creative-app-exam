@@ -37,6 +37,7 @@ The video will be saved as flower.mp4 in the video directory.
 The GIF will be saved as flower.gif in the video directory.
 The music file will be saved as audio.wav in the music directory.
 The final video with music will be saved as flower_w_music.mp4 in the final_result directory.
+
 Methodology
 Idea and Motivation
 The project was inspired by the intersection of art and programming. The goal was to create visually appealing, algorithmically generated images of a flower and compile them into a multimedia presentation.
@@ -55,7 +56,6 @@ Music Generation: A music file is generated based on a text prompt using a pre-t
 Final Video: The music is added to the video, creating the final multimedia piece.
 Screenshots or Video
 Include a screenshot of the generated flower images or a link to the final video demonstrating the project in action.
-
 
 Credits
 This project uses the following libraries and resources:
