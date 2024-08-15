@@ -75,7 +75,8 @@ This project uses the following libraries and resources:
 - **OpenCV**: For video creation.
 - **MoviePy**: For video and GIF processing.
 - **Transformers** (HuggingFace): For generating music using a pre-trained model.
-
+- **SciPy**: For saving the generated audio as a WAV file.
+- 
 ## **License**
 This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/) License. 
 
