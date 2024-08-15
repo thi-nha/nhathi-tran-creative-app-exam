@@ -16,7 +16,8 @@ To run this project locally, follow these steps:
    cd nhathi-tran-creative-app-exam
 
 3. **Install the Required Dependencies:**
-To run the code you'll need to install the following packages using pip:
+   
+To run the code you'll need to install the following packages using pip.
    ```bash
    pip install Pillow
    pip install opencv-python
