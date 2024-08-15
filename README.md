@@ -8,22 +8,21 @@ This project creates images of a flower with varying petal colors using Python's
 To run this project locally, follow these steps:
 
 1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/thi-nha/nhathi-tran-creative-app-exam.git
+      ```bash
+      git clone https://github.com/thi-nha/nhathi-tran-creative-app-exam.git
 
 2. **Navigate to the Project Directory:**
-   ```bash
-   cd nhathi-tran-creative-app-exam
+      ```bash
+      cd nhathi-tran-creative-app-exam
 
 3. **Install the Required Dependencies:**
-   
-To run the code you'll need to install the following packages using pip.
-   ```bash
-   pip install Pillow
-   pip install opencv-python
-   pip install moviepy
-   pip install transformers
-   pip install scipy
+   To run the code you'll need to install the following packages using pip.
+      ```bash
+      pip install Pillow
+      pip install opencv-python
+      pip install moviepy
+      pip install transformers
+      pip install scipy   
 
 Additionally, you need to ensure that ffmpeg is installed, as MoviePy requires it for video and audio processing. You can install it via the package manager on most systems:
    - **macOS**: brew install ffmpeg
