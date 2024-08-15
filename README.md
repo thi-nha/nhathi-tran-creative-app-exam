@@ -35,10 +35,10 @@ To generate the flower images, video, and add music:
    - The final video with music will be saved as flower_w_music.mp4 in the final_result directory.
 
 ## **Methodology**
-Idea and Motivation
+### **Idea and Motivation**
 The project was inspired by the intersection of art and programming. The goal was to create visually appealing, algorithmically generated images of a flower and compile them into a multimedia presentation.
 
-Development Process
+**Development Process**
 Research:
 
 Investigated various image generation techniques using the Pillow library.
