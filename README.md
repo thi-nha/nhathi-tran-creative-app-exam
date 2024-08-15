@@ -79,7 +79,3 @@ This project uses the following libraries and resources:
 - **Transformers** (HuggingFace): For generating music using a pre-trained model.
 - **SciPy**: For saving the generated audio as a WAV file.
   
-## **License**
-This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/) License. 
-
-...To be honest, I'm not entirely sure if this section is necessary or what exactly should be included. I apologize for any confusion.
