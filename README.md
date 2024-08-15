@@ -25,7 +25,7 @@ To run the code you'll need to install the following packages using pip:
       pip install scipy
 
 Additionally, you need to ensure that ffmpeg is installed, as MoviePy requires it for video and audio processing. You can install it via the package manager on most systems:
-   ```bash
+         
          macOS: brew install ffmpeg
          windows: https://ffmpeg.org/download.html
 
