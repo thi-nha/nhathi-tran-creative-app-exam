@@ -13,12 +13,21 @@ To run this project locally, follow these steps:
 
 2. **Navigate to the Project Directory:**
    ```bash
-   cd flower-image-video-generator
+   cd nhathi-tran-creative-app-exam
 
 3. **Install the Required Dependencies:**
-Install the dependencies using pip:
+To run the code you'll need to install the following packages using pip:
    ```bash
-   pip install -r requirements.txt
+      pip install Pillow
+      pip install opencv-python
+      pip install moviepy
+      pip install transformers
+      pip install scipy
+
+Additionally, you need to ensure that ffmpeg is installed, as MoviePy requires it for video and audio processing. You can install it via the package manager on most systems:
+   ```bash
+         macOS: brew install ffmpeg
+         windows: https://ffmpeg.org/download.html
 
 ## **Usage Instructions**
 To generate the flower images, video, and add music:
