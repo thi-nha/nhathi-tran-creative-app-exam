@@ -46,14 +46,13 @@ To generate the flower images, video, and add music:
 ## **Methodology**
 ### **Idea and Motivation**
 My idea was to take the inputs from the seminars on the various creative possibilities of using Python and ultimately summarize them in a multimedia video. Art also means drawing inspiration from others and experimenting with what has been learned to create something new.
-I adapted and expanded upon the code snippets that we discussed piece by piece in the seminars, to create a music file using AI and compile images into a video.
+I adapted and expanded upon the code snippets that we discussed piece by piece in the seminars, to create a music file using AI and compile images into a video (with a special focus on Lectures 4, 9, and 10).
 The goal was to create images of a flower and compile them into a multimedia video that includes an audio file generated through Python using AI.
 
 
 ### **Development Process**
 **1. Research:**
-- Investigated various image generation techniques using the Pillow library.
-- Explored methods for combining images into videos and adding music using MoviePy and other Python tools.
+In this project, I investigated various image generation techniques using the Pillow library and explored methods for combining images into videos while adding music using MoviePy and other Python tools, with reference to the code snippets that were discussed in the lectures mentioned above.
 
 **2. Implementation:**
 - **Image Generation**: Multiple images of a flower are generated with varying petal colors.
