@@ -42,10 +42,10 @@ def draw_petal(x, y, radius, color):
 
 # Create the first image
 draw.line((30, 150, 80, 200), fill='blue', width=3)  # Draw a blue line
-draw.line((80, 50, 130, 100), fill='blue', width=3)  # Draw a blue line
-draw.line((250, 30, 300, 80), fill='blue', width=3)  # Draw a blue line
-draw.line((310, 50, 360, 100), fill='blue', width=3)  # Draw a blue line
-draw.line((0, 30, 30, 60), fill='blue', width=3)  # Draw a blue line
+draw.line((80, 50, 130, 100), fill='blue', width=3)  
+draw.line((250, 30, 300, 80), fill='blue', width=3)  
+draw.line((310, 50, 360, 100), fill='blue', width=3)  
+draw.line((0, 30, 30, 60), fill='blue', width=3)  
 
 # Define positions and sizes for leaves
 leaf_positions = [(160, 330), (240, 370)]
@@ -75,10 +75,10 @@ save_image(image, '1.png')
 image = Image.new('RGB', (width, height), 'white')
 draw = ImageDraw.Draw(image)
 draw.line((80, 200, 130, 250), fill='blue', width=3)  # Draw a blue line
-draw.line((130, 100, 180, 150), fill='blue', width=3)  # Draw a blue line
-draw.line((300, 80, 350, 130), fill='blue', width=3)  # Draw a blue line
-draw.line((360, 100, 410, 150), fill='blue', width=3)  # Draw a blue line
-draw.line((50, 80, 80, 110), fill='blue', width=3)  # Draw a blue line
+draw.line((130, 100, 180, 150), fill='blue', width=3) 
+draw.line((300, 80, 350, 130), fill='blue', width=3)  
+draw.line((360, 100, 410, 150), fill='blue', width=3)  
+draw.line((50, 80, 80, 110), fill='blue', width=3)  
 
 # Draw leaves at specified positions
 for pos in leaf_positions:
@@ -102,10 +102,10 @@ save_image(image, '2.png')
 image = Image.new('RGB', (width, height), 'white')
 draw = ImageDraw.Draw(image)
 draw.line((120, 240, 170, 290), fill='blue', width=3)  # Draw a blue line
-draw.line((170, 140, 220, 190), fill='blue', width=3)  # Draw a blue line
-draw.line((340, 120, 390, 170), fill='blue', width=3)  # Draw a blue line
-draw.line((400, 140, 450, 190), fill='blue', width=3)  # Draw a blue line
-draw.line((90, 120, 120, 150), fill='blue', width=3)  # Draw a blue line
+draw.line((170, 140, 220, 190), fill='blue', width=3)  
+draw.line((340, 120, 390, 170), fill='blue', width=3)  
+draw.line((400, 140, 450, 190), fill='blue', width=3)  
+draw.line((90, 120, 120, 150), fill='blue', width=3)  
 
 # Draw leaves at specified positions
 for pos in leaf_positions:
@@ -129,10 +129,10 @@ save_image(image, '3.png')
 image = Image.new('RGB', (width, height), 'white')
 draw = ImageDraw.Draw(image)
 draw.line((180, 300, 230, 350), fill='blue', width=3)  # Draw a blue line
-draw.line((210, 220, 260, 270), fill='blue', width=3)  # Draw a blue line
-draw.line((400, 180, 450, 230), fill='blue', width=3)  # Draw a blue line
-draw.line((450, 190, 500, 240), fill='blue', width=3)  # Draw a blue line
-draw.line((140, 170, 170, 190), fill='blue', width=3)  # Draw a blue line
+draw.line((210, 220, 260, 270), fill='blue', width=3)  
+draw.line((400, 180, 450, 230), fill='blue', width=3)  
+draw.line((450, 190, 500, 240), fill='blue', width=3)  
+draw.line((140, 170, 170, 190), fill='blue', width=3)  
 
 # Draw leaves at specified positions
 for pos in leaf_positions:
@@ -159,10 +159,10 @@ image.show()
 image = Image.new('RGB', (width, height), 'white')
 draw = ImageDraw.Draw(image)
 draw.line((30, 150, 80, 200), fill='blue', width=3)  # Draw a blue line
-draw.line((80, 50, 130, 100), fill='blue', width=3)  # Draw a blue line
-draw.line((250, 30, 300, 80), fill='blue', width=3)  # Draw a blue line
-draw.line((310, 50, 360, 100), fill='blue', width=3)  # Draw a blue line
-draw.line((0, 30, 30, 60), fill='blue', width=3)  # Draw a blue line
+draw.line((80, 50, 130, 100), fill='blue', width=3)  
+draw.line((250, 30, 300, 80), fill='blue', width=3) 
+draw.line((310, 50, 360, 100), fill='blue', width=3)  
+draw.line((0, 30, 30, 60), fill='blue', width=3)  
 
 # Draw leaves at specified positions
 for pos in leaf_positions:
