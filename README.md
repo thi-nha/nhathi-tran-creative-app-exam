@@ -49,7 +49,7 @@ The goal was to create images of a flower and compile them into a multimedia vid
 **2. Implementation:**
 - **Image Generation**: Multiple images of a flower are generated with varying petal colors.
 - **Video Creation**: The images are compiled into a video, repeated twice to create a longer sequence.
-- **GIF Creation*+: The video is converted into a GIF.
+- **GIF Creation**: The video is converted into a GIF.
 - **Music Generation**: A music file is generated based on a text prompt using a pre-trained model.
 - **Final Video**: The music is added to the video, creating the final multimedia piece.
 
