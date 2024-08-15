@@ -52,9 +52,9 @@ The project was inspired by the intersection of art and programming. The goal wa
 
 ## **Video**
 ![](QR_to_myVideo.gif)
-````
+
 Here is a QR Code to my video where you can see my demo of creating a musicvideo.
-````
+
 ## **Credits**
 This project uses the following libraries and resources:
 - **Pillow**: For image creation and manipulation.
