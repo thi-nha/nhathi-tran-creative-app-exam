@@ -66,4 +66,4 @@ MoviePy: For video and GIF processing.
 Transformers (HuggingFace): For generating music using a pre-trained model.
 
 #Adding gifs to README.md file
-![](final.gif)
+![](QR_to_myVideo.gif)
