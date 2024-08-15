@@ -70,7 +70,7 @@ Here is a QR Code to my video where you can see my demo of creating a musicvideo
 
 
 
-By the way, I also uploaded the code for this QR code, although it's not the primary art artifact 😊.
+By the way, I also uploaded the code for this QR Code, although it's not the primary piece of art 😊.
 
 ## **Credits**
 This project uses the following libraries and resources:
