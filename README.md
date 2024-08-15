@@ -65,7 +65,11 @@ The goal was to create images of a flower and compile them into a multimedia vid
 ## **Video**
 Here is a QR Code to my video where you can see my demo of creating a musicvideo with this script.
 
-![](QR_to_myVideo.gif)
+<p align="center">
+  <![](QR_to_myVideo.gif)/>
+</p>
+
+
 
 By the way, I also uploaded the code for this QR code, although it's not the primary art artifact 😊.
 
