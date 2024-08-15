@@ -68,5 +68,6 @@ This project uses the following libraries and resources:
 - **Transformers** (HuggingFace): For generating music using a pre-trained model.
 
 ## **License**
-This project is licensed under the MIT License. See the LICENSE file for more details.
-(...tbh, Idk if I need this section or what I uses, I'm sorry)
+This project is licensed under the MIT License. 
+[MIT](https://choosealicense.com/licenses/mit/)
+..to be honest, I'm not entirely sure if this section is necessary or what exactly should be included. I apologize for any confusion.
