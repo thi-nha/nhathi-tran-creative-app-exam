@@ -36,7 +36,12 @@ To generate the flower images, video, and add music:
 
 ## **Methodology**
 ### **Idea and Motivation**
-The project was inspired by the intersection of art and programming. The goal was to create visually appealing, algorithmically generated images of a flower and compile them into a multimedia presentation.
+My idea was to take the inputs from the seminars on the various creative possibilities of using Python and ultimately summarize them in a multimedia video. Art also means drawing inspiration from others and experimenting with what has been learned to create something new.
+I adapted and expanded upon the code snippets that we discussed piece by piece in the seminars, to create a music file using AI and compile images into a video.
+The goal was to create images of a flower and compile them into a multimedia video that includes an audio file generated through Python using AI.
+
+
+
 
 ### **Development Process**
 **1. Research:**
