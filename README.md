@@ -41,8 +41,6 @@ I adapted and expanded upon the code snippets that we discussed piece by piece i
 The goal was to create images of a flower and compile them into a multimedia video that includes an audio file generated through Python using AI.
 
 
-
-
 ### **Development Process**
 **1. Research:**
 - Investigated various image generation techniques using the Pillow library.
@@ -56,9 +54,11 @@ The goal was to create images of a flower and compile them into a multimedia vid
 - **Final Video**: The music is added to the video, creating the final multimedia piece.
 
 ## **Video**
+Here is a QR Code to my video where you can see my demo of creating a musicvideo.
+
 ![](QR_to_myVideo.gif)
 
-Here is a QR Code to my video where you can see my demo of creating a musicvideo.
+By the way, I also uploaded the code for this QR code, although it's not the primary art artifact 😊.
 
 ## **Credits**
 This project uses the following libraries and resources:
