@@ -41,7 +41,7 @@ def draw_petal(x, y, radius, color):
     draw.ellipse((x-radius, y-radius, x+radius, y+radius), fill=color, outline='black')
 
 # Create the first image
-draw.line((30, 150, 80, 200), fill='blue', width=3)  # Draw a blue line
+draw.line((30, 150, 80, 200), fill='blue', width=3)  # Draw a blue line for rain for rain
 draw.line((80, 50, 130, 100), fill='blue', width=3)  
 draw.line((250, 30, 300, 80), fill='blue', width=3)  
 draw.line((310, 50, 360, 100), fill='blue', width=3)  
@@ -74,7 +74,7 @@ save_image(image, '1.png')
 # Create the second image (with different petal color order)
 image = Image.new('RGB', (width, height), 'white')
 draw = ImageDraw.Draw(image)
-draw.line((80, 200, 130, 250), fill='blue', width=3)  # Draw a blue line
+draw.line((80, 200, 130, 250), fill='blue', width=3)  # Draw a blue line for rain for rain
 draw.line((130, 100, 180, 150), fill='blue', width=3) 
 draw.line((300, 80, 350, 130), fill='blue', width=3)  
 draw.line((360, 100, 410, 150), fill='blue', width=3)  
@@ -101,7 +101,7 @@ save_image(image, '2.png')
 # Create the third image (with different petal color order)
 image = Image.new('RGB', (width, height), 'white')
 draw = ImageDraw.Draw(image)
-draw.line((120, 240, 170, 290), fill='blue', width=3)  # Draw a blue line
+draw.line((120, 240, 170, 290), fill='blue', width=3)  # Draw a blue line for rain
 draw.line((170, 140, 220, 190), fill='blue', width=3)  
 draw.line((340, 120, 390, 170), fill='blue', width=3)  
 draw.line((400, 140, 450, 190), fill='blue', width=3)  
@@ -128,7 +128,7 @@ save_image(image, '3.png')
 # Create the fourth image (with different petal color order)
 image = Image.new('RGB', (width, height), 'white')
 draw = ImageDraw.Draw(image)
-draw.line((180, 300, 230, 350), fill='blue', width=3)  # Draw a blue line
+draw.line((180, 300, 230, 350), fill='blue', width=3)  # Draw a blue line for rain
 draw.line((210, 220, 260, 270), fill='blue', width=3)  
 draw.line((400, 180, 450, 230), fill='blue', width=3)  
 draw.line((450, 190, 500, 240), fill='blue', width=3)  
@@ -158,7 +158,7 @@ image.show()
 # Create the fifth image
 image = Image.new('RGB', (width, height), 'white')
 draw = ImageDraw.Draw(image)
-draw.line((30, 150, 80, 200), fill='blue', width=3)  # Draw a blue line
+draw.line((30, 150, 80, 200), fill='blue', width=3)  # Draw a blue line for rain
 draw.line((80, 50, 130, 100), fill='blue', width=3)  
 draw.line((250, 30, 300, 80), fill='blue', width=3) 
 draw.line((310, 50, 360, 100), fill='blue', width=3)  
