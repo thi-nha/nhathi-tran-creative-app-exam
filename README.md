@@ -38,28 +38,29 @@ To generate the flower images, video, and add music:
 ### **Idea and Motivation**
 The project was inspired by the intersection of art and programming. The goal was to create visually appealing, algorithmically generated images of a flower and compile them into a multimedia presentation.
 
-**Development Process**
-Research:
+### **Development Process**
+**1. Research:**
+- Investigated various image generation techniques using the Pillow library.
+- Explored methods for combining images into videos and adding music using MoviePy and other Python tools.
 
-Investigated various image generation techniques using the Pillow library.
-Explored methods for combining images into videos and adding music using MoviePy and other Python tools.
-Implementation:
+**2. Implementation:**
+- **Image Generation**: Multiple images of a flower are generated with varying petal colors.
+- **Video Creation**: The images are compiled into a video, repeated twice to create a longer sequence.
+- **GIF Creation*+: The video is converted into a GIF.
+- **Music Generation**: A music file is generated based on a text prompt using a pre-trained model.
+- **Final Video**: The music is added to the video, creating the final multimedia piece.
 
-Image Generation: Multiple images of a flower are generated with varying petal colors.
-Video Creation: The images are compiled into a video, repeated twice to create a longer sequence.
-GIF Creation: The video is converted into a GIF.
-Music Generation: A music file is generated based on a text prompt using a pre-trained model.
-Final Video: The music is added to the video, creating the final multimedia piece.
-Screenshots or Video
-Include a screenshot of the generated flower images or a link to the final video demonstrating the project in action.
-
-Credits
-This project uses the following libraries and resources:
-
-Pillow: For image creation and manipulation.
-OpenCV: For video creation.
-MoviePy: For video and GIF processing.
-Transformers (HuggingFace): For generating music using a pre-trained model.
-
-#Adding gifs to README.md file
+## **Video**
 ![](QR_to_myVideo.gif)
+Here is a QR Code to my video where you can see my demo of creating a musicvideo.
+
+## **Credits**
+This project uses the following libraries and resources:
+- **Pillow**: For image creation and manipulation.
+- **OpenCV**: For video creation.
+- **MoviePy**: For video and GIF processing.
+- **Transformers** (HuggingFace): For generating music using a pre-trained model.
+
+## **License**
+This project is licensed under the MIT License. See the LICENSE file for more details.
+(...tbh, Idk if I need this section or what I uses, I'm sorry)
