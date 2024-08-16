@@ -62,7 +62,7 @@ In this project, I investigated various image generation techniques using the Pi
 - **Final Video**: The music is added to the video, creating the final multimedia piece.
 
 ## **Video**
-Here is a QR Code to my video where you can see my demo of creating a musicvideo with this script.
+Here is a QR Code to my video where you can see my demo of creating a musicvideo with this script (or you can download the video file: Creating_a_musicvideo_w_Python.mp4).
 
 
  ![](QR_to_myVideo.gif)
