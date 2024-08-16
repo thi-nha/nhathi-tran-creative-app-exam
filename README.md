@@ -24,9 +24,7 @@ To run this project locally, follow these steps:
       pip install transformers
       pip install scipy   
 
-Additionally, you need to ensure that ffmpeg is installed, as MoviePy requires it for video and audio processing.
-   - **macOS**: brew install ffmpeg
-   - **Windows**: https://ffmpeg.org/download.html
+Additionally, you need to ensure that ffmpeg is installed, as MoviePy requires it for video and audio processing: https://ffmpeg.org/download.html
    
 
 ## **Usage Instructions**
